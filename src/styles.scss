@@ -7,13 +7,27 @@
 //<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
 
 body {
+    background-color: #FFF;
     font-family: 'Roboto Condensed', sans-serif;
 }
 
 .headline {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 72px;
+    color: #000;
+    background-color: #FFF;
+}
+
+.header {
+    font-size: 15px;
     color: #FFF;
     background-color: #000;
 }
 
+img.logo {
+    float: left;
+}
+
+strong {
+    font-weight: bolder; 
+}
