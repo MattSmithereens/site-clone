@@ -26,7 +26,7 @@ This site will allow a user to read news stories as fed by the Vice News API wit
 * Clone the project repo.
 * Run `npm install` from project directory.
 * Create a file in the root directory called `.env` with your API key written in this format: **exports.apiKey** = **_API KEY HERE_**
-* Run `ng serve` for a dev server. Navigate to [localhost:4200](http://http://localhost:4200/).
+* Run `ng serve` for a dev server. Navigate to [localhost:4200](http://localhost:4200/).
 * Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 * Run `ng test` to execute the unit tests via Karma.
 * Run `ng e2e` to execute the end-to-end tests via Protractor.
@@ -53,7 +53,7 @@ This site will allow a user to read news stories as fed by the Vice News API wit
 
 ## Links
 
-* [Github Repo](https://github.com/MattSmithereens/site-clone)
+* [Github Repo](https://github.com/MattSmithereens/vice-clone)
 
 ## License
 
